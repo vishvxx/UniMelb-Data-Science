@@ -178,6 +178,12 @@ For companies, the places that I applied and was offered include:
 
 There are plenty of jobs around and networking opportunities to be made - I highly suggest you join the Melbourne Data Science MeetUp group to meet like-minded people: https://duckduckgo.com/?q=meetup+data+science+melbourne&t=braveed&ia=web
 
+## Contributing
+- Will I be updating this repo?  
+*No. I've already graduated and I don't plan on adding new things apart from some tutoring material.*   
+
+But, if you feel like you can add your new past exams (2020 onwards) with solutions, open a pull request and I'll approve it.
+
 ## License
 ```
 All of the source code in this project is licensed under the GNU General Public License v3 (or later).
